@@ -113,11 +113,5 @@ Sheets in the workbook:
 - Profit figures are as recorded in the source data. No cost adjustments or returns were applied.
 - Answers were checked against the source data, but formula results depend on the Excel version and on the table being intact.
 
-## Author
 
-**[Your name]**
-[Your email or LinkedIn]
 
----
-
-*Dataset: Superstore sample data. Built as a practice project for data analysis and Excel lookup techniques.*
